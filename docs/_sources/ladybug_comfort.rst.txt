@@ -1,0 +1,31 @@
+ladybug\_comfort package
+========================
+
+Subpackages
+-----------
+
+.. toctree::
+
+    ladybug_comfort.collection
+    ladybug_comfort.parameter
+
+Submodules
+----------
+
+.. toctree::
+
+   ladybug_comfort.adaptive
+   ladybug_comfort.degreetime
+   ladybug_comfort.hi
+   ladybug_comfort.humidex
+   ladybug_comfort.pmv
+   ladybug_comfort.solarcal
+   ladybug_comfort.utci
+
+Module contents
+---------------
+
+.. automodule:: ladybug_comfort
+    :members:
+    :undoc-members:
+    :show-inheritance:
